@@ -40,9 +40,9 @@ const Btn = styled.button`
 
 const Button = ({ text, link }) => {
   return (
-      <a href={link} aria-label={text} target="_blank" rel="noreferrer" >
-<Btn>{text}</Btn>
-</a>
+ <a href={link} aria-label={text} target="_blank" rel="noreferrer" >
+    <Btn>{text}</Btn>
+    </a>
   );
 };
 
