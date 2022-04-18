@@ -79,7 +79,7 @@ const TypeWriterText = () => {
   return (
     <>
       <Title>
-        Do you believe in 2nd chance?
+       Do you believe in second chance?
         <Typewriter
           options={{
             autoStart: true,
@@ -87,20 +87,20 @@ const TypeWriterText = () => {
           }}
           onInit={(typewriter) => {
             typewriter
-              .typeString("<span class='text-1'>NFTs.</span>")
+              .typeString("<span class='text-1'>Solana</span>")
               .pauseFor(2000)
               .deleteAll()
-              .typeString("<span class='text-2'>Collectible Items.</span>")
+              .typeString("<span class='text-2'>NFTs</span>")
               .pauseFor(2000)
               .deleteAll()
-              .typeString("<span class='text-3'>Ape Killers!</span>")
+              .typeString("<span class='text-3'>Prisoners!</span>")
               .pauseFor(2000)
               .deleteAll()
               .start();
           }}
         />
       </Title>
-      <SubTitle>Bored Of Apes? Try Something New.</SubTitle>
+      <SubTitle>Unsay ibutang diri?.</SubTitle>
       <ButtonContainer>
         <Button text="Explore" link="#about" />
       </ButtonContainer>
