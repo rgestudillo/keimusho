@@ -132,7 +132,7 @@ const Team = () => {
       <ConfettiComponent />
       <Title>Team</Title>
       <Container>
-        <MemberComponent img={img1} name="Ket" position="founder" />
+        <MemberComponent img={img1} name="Ket" position="Founder" />
         <MemberComponent img={img2} name="Kashi" position="Co-Founder" />
         <MemberComponent img={img3} name="Garyen" position="Marketing Director" />
         <MemberComponent img={img4} name="Euowan" position="Artist" />
