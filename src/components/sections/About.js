@@ -149,7 +149,7 @@ const About = () => {
         </Box>
         <Box>
           <Title>
-            Welcome To The <br /> Weirdos Club.
+            Welcome To The <br /> Keimusho 自由
           </Title>
           <SubText>
             The WEIRDOS CLUB is a private collection of NFTs—unique digital
