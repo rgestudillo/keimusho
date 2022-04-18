@@ -20,7 +20,7 @@ const LogoText = styled.h1`
 const Logo = () => {
   return (
     <LogoText>
-      <Link to="/">Keimusho</Link>
+      <Link to="/">Keimusho 自由</Link>
     </LogoText>
   );
 };
