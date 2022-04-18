@@ -174,17 +174,7 @@ const Footer = () => {
       </Container>
       <Bottom>
         <span>
-          &copy; {new Date().getFullYear()} Weirdos Club. All rights reserved.
-        </span>
-        <span>
-          Made with &#10084; by
-          <a
-            href="https://youtube.com/codebucks"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            CodeBucks
-          </a>
+          &copy; {new Date().getFullYear()} Keimusho 自由 All rights reserved.
         </span>
       </Bottom>
     </Section>
