@@ -21,7 +21,6 @@ const Title = styled.h1`
   margin: 1rem auto;
   border-bottom: 2px solid ${(props) => props.theme.text};
   width: fit-content;
-
   @media (max-width: 40em) {
     font-size: ${(props) => props.theme.fontxl};
   }
@@ -234,7 +233,7 @@ const Roadmap = () => {
           />
           <RoadMapItem
             addToRef={addToRefs}
-            title="Phase 4 - The Second Chance We Deserve; $CON"
+            title="Phase 4 - The Second Chance We Deserve; $CON" 
             subtext="Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. At Repellat Placeat, Adipisicing Elit. At Repellat Placeat."
           />
           <RoadMapItem
