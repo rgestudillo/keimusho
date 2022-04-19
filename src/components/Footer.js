@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import Banner from "./Banner";
+
 import Logo from "./Logo";
 
 import Facebook from "../Icons/Facebook";
@@ -128,7 +128,7 @@ const Footer = () => {
 
   return (
     <Section>
-      <Banner />
+      
       <Container>
         <Left>
           <Logo />
