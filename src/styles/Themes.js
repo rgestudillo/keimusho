@@ -1,4 +1,4 @@
-export const dark = {
+export const light = {
   body: "#fff",
   text: "#120c18", // black shade
   bodyRgba: "255, 255, 255",
@@ -19,8 +19,8 @@ export const dark = {
   navHeight: "5rem",
 };
 
-export const light = {
-  body: "#120c18",
+export const dark = {
+  body: "#202020",
   text: "#fff", // black shade
   bodyRgba: "32, 32, 32",
   textRgba: "255, 255, 255",
