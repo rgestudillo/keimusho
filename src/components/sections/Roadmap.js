@@ -234,7 +234,6 @@ const Roadmap = () => {
           <RoadMapItem
             addToRef={addToRefs}
             title="Phase 4 - The Second Chance We Deserve; $CON" 
-            const element = <h1 style={{ color: 'red' }}>Hello world</h1>
             subtext="Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. At Repellat Placeat, Adipisicing Elit. At Repellat Placeat."
           />
           <RoadMapItem
