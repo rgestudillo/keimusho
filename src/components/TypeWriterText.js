@@ -102,7 +102,7 @@ const TypeWriterText = () => {
       </Title>
       <SubTitle>Unsay ibutang diri?.</SubTitle>
       <ButtonContainer>
-        <Button text="Explore" link="#about" />
+        <Button text="Whitepaper v1.0" link="https://keimusho-1.gitbook.io/v1/" />
       </ButtonContainer>
     </>
   );
