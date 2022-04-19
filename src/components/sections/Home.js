@@ -43,12 +43,7 @@ const Box = styled.div`
   align-items: center;
 `;
 
-const rotate = keyframes`
-  100% {
-    transform: rotate(1turn);
-  }
 
-`;
 
 const Home = () => {
   return (
