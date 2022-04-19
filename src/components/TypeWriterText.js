@@ -79,7 +79,7 @@ const TypeWriterText = () => {
   return (
     <>
       <Title>
-       Do you believe in second chance?
+       Do you believe in second chances?
         <Typewriter
           options={{
             autoStart: true,
@@ -100,7 +100,7 @@ const TypeWriterText = () => {
           }}
         />
       </Title>
-      <SubTitle>Unsay ibutang diri?.</SubTitle>
+      <SubTitle>Ever since time immemorial, they've been outcasts of society. Together in this community, let's give them hope to live again.</SubTitle>
       <ButtonContainer>
         <Button text="Whitepaper v1.0" link="https://keimusho-1.gitbook.io/v1/" />
       </ButtonContainer>
