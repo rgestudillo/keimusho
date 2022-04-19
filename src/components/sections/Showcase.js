@@ -12,7 +12,7 @@ import img7 from "../../assets/Nfts/test.png";
 import img8 from "../../assets/Nfts/test.png";
 import img9 from "../../assets/Nfts/test.png";
 import img10 from "../../assets/Nfts/test.png";
-import ETH from "../../assets/icons8-ethereum-48.png";
+import ETH from "../../assets/solana-sol-logo";
 
 const Section = styled.section`
   min-height: 100vh;
@@ -129,7 +129,7 @@ const NftItem = ({ img, number = 0, price = 0, passRef }) => {
       <img src={img} alt="The Weirdos" />
       <Details>
         <div>
-          <span>Weirdos</span> <br />
+          <span>Keimusho</span> <br />
           <h1>#{number}</h1>
         </div>
 
