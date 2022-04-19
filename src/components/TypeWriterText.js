@@ -100,7 +100,7 @@ const TypeWriterText = () => {
           }}
         />
       </Title>
-      <SubTitle>Treated as outcasts of society, may we give them hope in this community.</SubTitle>
+      <Title>Treated as outcasts of society, may we give them hope in this community.</Title>
       <ButtonContainer>
         <Button text="Whitepaper v1.0" link="https://keimusho-1.gitbook.io/v1/" />
       </ButtonContainer>
