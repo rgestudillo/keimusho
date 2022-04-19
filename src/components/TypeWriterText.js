@@ -41,6 +41,26 @@ const Title = styled.h2`
     width: 90%;
   }
 `;
+
+const SubTitle = styled.h3`
+  font-size: ${(props) => props.theme.fontlg};
+  text-transformation: capitalize;
+  color: ${(props) => `rgba(${props.theme.textRgba}, 0.6)`};
+  font-weight: 600;
+  margin-bottom: 1rem;
+  width: 80%;
+  align-self: flex-start;
+
+  @media (max-width: 40em) {
+    font-size: ${(props) => props.theme.fontmd};
+  }
+
+  @media (max-width: 48em) {
+    align-self: center;
+    text-align: center;
+  }
+`;
+
 const ButtonContainer = styled.div`
   width: 80%;
   align-self: flex-start;
@@ -80,7 +100,7 @@ const TypeWriterText = () => {
           }}
         />
       </Title>
-      <Title>Treated as outcasts of society, may we give them hope in this community.</Title>
+      <SubTitle>Treated as outcasts of society, may we give them hope in this community.</SubTitle>
       <ButtonContainer>
         <Button text="Whitepaper v1.0" link="https://keimusho-1.gitbook.io/v1/" />
       </ButtonContainer>
