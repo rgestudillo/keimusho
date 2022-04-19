@@ -2,7 +2,7 @@ import React, { useRef } from "react";
 import styled from "styled-components";
 import { keyframes } from "styled-components";
 
-import img1 from "../../assets/Nfts/bighead.svg";
+import img1 from "../../assets/Nfts/test.png";
 import img2 from "../../assets/Nfts/bighead-1.svg";
 import img3 from "../../assets/Nfts/bighead-2.svg";
 import img4 from "../../assets/Nfts/bighead-3.svg";
