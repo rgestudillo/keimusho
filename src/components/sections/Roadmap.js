@@ -219,27 +219,27 @@ const Roadmap = () => {
           <Item>&nbsp;</Item>
           <RoadMapItem
             addToRef={addToRefs}
-            title="Phase 1"
+            title="Phase 1 - Life on Trial"
             subtext="Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. At Repellat Placeat, Adipisicing Elit. At Repellat Placeat."
           />
           <RoadMapItem
             addToRef={addToRefs}
-            title="Phase 2"
+            title="Phase 2 - Journey after Conviction"
             subtext="Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. At Repellat Placeat, Adipisicing Elit. At Repellat Placeat."
           />
           <RoadMapItem
             addToRef={addToRefs}
-            title="Phase 3"
+            title="Phase 3 - Inmate Survival"
             subtext="Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. At Repellat Placeat, Adipisicing Elit. At Repellat Placeat."
           />
           <RoadMapItem
             addToRef={addToRefs}
-            title="Phase 4"
+            title="Phase 4 - The Second Chance We Deserve; $CON"
             subtext="Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. At Repellat Placeat, Adipisicing Elit. At Repellat Placeat."
           />
           <RoadMapItem
             addToRef={addToRefs}
-            title="Phase 5"
+            title="Phase 5 - Unfolding of Our New Beginning"
             subtext="Lorem Ipsum Dolor Sit Amet Consectetur, Adipisicing Elit. At Repellat Placeat, Adipisicing Elit. At Repellat Placeat."
           />
         </Items>
