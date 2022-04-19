@@ -12,7 +12,7 @@ import img7 from "../../assets/Nfts/test.png";
 import img8 from "../../assets/Nfts/test.png";
 import img9 from "../../assets/Nfts/test.png";
 import img10 from "../../assets/Nfts/test.png";
-import ETH from "../../assets/icons8-ethereum-48.png";
+import ETH from "../../assets/solana-sol-logo.svg";
 
 const Section = styled.section`
   min-height: 100vh;
