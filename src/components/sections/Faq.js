@@ -97,7 +97,7 @@ const Faq = () => {
           <Accordion title="WHAT IS THE MINT PRICE?">
             TBD
           </Accordion>
-          <Accordion title="WHAT IS THE MINT DATE?">
+          <Accordion title="WHEN IS THE MINT DATE?">
            TBD
           </Accordion>
         </Box>
