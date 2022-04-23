@@ -139,7 +139,7 @@ const Team = () => {
         <MemberComponent img={img5} name="Savii" position="Artist" />
         <MemberComponent
           img={img6}
-          name="Rob Perez"
+          name="Alexeii"
           position="Artist"
         />
         <MemberComponent
@@ -148,7 +148,7 @@ const Team = () => {
           position="Lead Researcher/Writer"
         />
         <MemberComponent img={img8} name="Jann" position="Graphic Designer" />
-        <MemberComponent img={img9} name="Joana?" position="Useless Goat" />
+        <MemberComponent img={img9} name="Joana?" position="TBD" />
       </Container>
     </Section>
   );
